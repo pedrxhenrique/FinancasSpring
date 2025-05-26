@@ -1,0 +1,9 @@
+io\github\pedrxhenrique\financas_api\model\Transacao.class
+io\github\pedrxhenrique\financas_api\config\DataBaseConfiguration.class
+io\github\pedrxhenrique\financas_api\repository\UsuarioRepository.class
+io\github\pedrxhenrique\financas_api\FinancasApiApplication.class
+io\github\pedrxhenrique\financas_api\service\UsuarioService.class
+io\github\pedrxhenrique\financas_api\dto\UsuarioDTO.class
+io\github\pedrxhenrique\financas_api\model\Categoria.class
+io\github\pedrxhenrique\financas_api\model\Usuario.class
+io\github\pedrxhenrique\financas_api\controller\UsuarioController.class
